@@ -7,7 +7,7 @@
         <br> Let us always pray for our health 
         <br>
         <br>
-    <p align= "center"> <img src= "C:\Users\mayieeyeah\Desktop\week 3\sun.png" width= "210" length= "210"> </img> 
+    <p align= "center"> <img src= "sun.png" width= "210" length= "210"> </img> 
         <br> The sunshine is so bright
         <br> It gives hope to everyone
         </br>
