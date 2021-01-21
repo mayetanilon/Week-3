@@ -12,13 +12,13 @@
         <br> It gives hope to everyone
         </br>
         </br>
-    <img src= "C:\Users\mayieeyeah\Desktop\week 3\circle.png" width= "300" length= "300"> </img> 
+    <img src= "circle.png" width= "300" length= "300"> </img> 
         <br> It's a small 
         <br> World after all 
         </p>
         </br>
         </br>
-    <p align= "right"> <img src= "C:\Users\mayieeyeah\Desktop\week 3\smiley.png" width= "450" length= "450"> </img> 
+    <p align= "right"> <img src= "smiley.png" width= "450" length= "450"> </img> 
         <b> Always wear a smile. </b>
         <br> you might inspire somebody
         <br> with it.
@@ -45,7 +45,7 @@
         Andy Andrews </font> </p> </b>
         <br>
         <br>
-        <p align= "right"> <img src="C:\Users\mayieeyeah\Desktop\week 3\img1598909981194.jpg" width= "210" length= "210"> 
+        <p align= "right"> <img src="img1598909981194.jpg" width= "210" length= "210"> 
         </p>
         <br>
         <br>
